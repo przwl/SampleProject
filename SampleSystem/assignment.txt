@@ -1,0 +1,3 @@
+﻿Draw a class diagram for a system, where that system displays list pages and details pages for cars, 
+trucks, bikes, boats and planes. Annotate the diagram and list your assumptions.
+
